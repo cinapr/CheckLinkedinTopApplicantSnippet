@@ -9,12 +9,12 @@ This script processes a LinkedIn job collection HTML file to extract job posting
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/cinapr/CheckLinkedinTopApplicantSnippet.git
-   ``
+   ```
    
 2. **Install Required Library**:
    ```bash
   pip install beautifulsoup4
-  ``
+  
 
   
 
