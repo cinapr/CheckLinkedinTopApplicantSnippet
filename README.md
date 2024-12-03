@@ -1,6 +1,6 @@
 # Check LinkedIn Top Applicant Snippets
 Python script to check in which job you are top applicant. 
-Usually it is hidden in : www.linkedin.com/jobs/collections/top-applicant
+Usually it is hidden in : [LinkedIn Top Applicant Jobs](https://www.linkedin.com/jobs/collections/top-applicant)
 
 This script processes a LinkedIn job collection HTML file to extract job posting details such as the job title, company name, and location.
 
@@ -9,10 +9,12 @@ This script processes a LinkedIn job collection HTML file to extract job posting
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/cinapr/CheckLinkedinTopApplicantSnippet.git
-
+   ``
+   
 2. **Install Required Library**:
    ```bash
   pip install beautifulsoup4
+  ``
 
   
 
@@ -32,10 +34,3 @@ This script processes a LinkedIn job collection HTML file to extract job posting
 3. Run the script:
   ```bash
   python checkTopApplicantHTML.py
-
-
-
-
-
-
-
