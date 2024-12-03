@@ -26,6 +26,7 @@ This script processes a LinkedIn job collection HTML file to extract job posting
   1. Use the shortcut Ctrl+S in Chrome to save the webpage.
   2. You will get two files: one folder and one HTML file.
 4. Ignore the folder; you can delete it. The script only requires the HTML file.
+5. Rename the HTML file into : `TopApplicant.html`
 
   
 
