@@ -14,7 +14,7 @@ This script processes a LinkedIn job collection HTML file to extract job posting
 2. **Install Required Library**:
    ```bash
   pip install beautifulsoup4
-   ```
+   
   
 
   
