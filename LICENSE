@@ -1,21 +1,61 @@
-MIT License
+License
 
-Copyright (c) 2024 Cindy Aprilia
+Copyright (c) 2024 cinapr
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+# Copyright Notice and Disclaimer
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This repository and the associated code are provided for educational and informational purposes. 
+This repository contains code that interacts with linkedin content through downloaded file.
+All rights to the code are owned by the original author. 
+All rights to the data are owned by linkedin. 
+The use of this code is governed by the law and regulations defined by the governments.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+
+
+## Disclaimer
+
+By using this code, you acknowledge and agree to the following:
+
+- **Linkedin Content Ownership**: Linkedin content are owned by their respective content creators and Linkedin. This code does not grant you ownership of any content you access via Linkedin.
+- **Content Responsibility**: You are solely responsible for ensuring that the content you download or interact with complies with copyright law. Do not download, distribute, or use other content unless you have explicit permission from the copyright holder or the content is freely available for download.
+- **No Download of Copyrighted Content**: This code is not intended to facilitate the downloading of copyrighted content without authorization from the owner. You are prohibited from using this code to download or distribute copyrighted content without proper rights or permissions.
+- **No Liability for Misuse**: The author(s) of this repository take no responsibility for any misuse of this code. By using this repository, you agree to use it only in ways that comply with applicable copyright laws, Linkedin's Terms of Service, and any other relevant legal agreements.
+
+
+
+## Disclaimer
+
+By using or contributing to this repository, you agree to the following:
+
+1. **Compliance with Linkedin's Terms of Service**: 
+   This repository is intended for educational purposes only. **Linkedin content are protected by copyright law**, and you must comply with Linkedin's Terms of Service when interacting with or downloading content from Linkedin. You **may not download, redistribute, or use** any content that you do not own or have permission to use. This includes all media and content hosted on Linkedin.
+
+   Linkedin’s Terms of Service can be found here: [Linkedin Terms of Service](https://www.linkedin.com/legal/user-agreement)
+
+2. **Responsibility for Use**: 
+   The author of this repository, cinapr, is **not responsible** for any misuse of the code or violations of copyright law resulting from the use of this repository. If you use this code to download content from Linkedin, you do so **at your own risk** and are solely responsible for ensuring compliance with applicable laws and the rights of content creators.
+
+3. **Content Ownership**: 
+   The content on Linkedin is owned by Linkedin and its respective creators and **not by this repository**. The use of Linkedin's services, including access to videos and captions, is governed by the **Linkedin Terms of Service**, which you should read and agree to before using any services offered by Linkedin
+
+.4. **No Warranty**: 
+   This repository is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the repository or the use or other dealings in the repository.
+
+
+
+## License
+
+Follow the license of Linkedin
+
+
+
+## Linkedin's Terms of Service
+
+When using this code, you are subject to Linkedin's Terms of Service, and you agree to comply with Linkedin's policies. This includes, but is not limited to, Linkedin's policy on downloading content and copyright enforcement.
+- Linkedin Terms of Service: [https://www.linkedin.com/legal/l/service-terms](https://www.linkedin.com/legal/l/service-terms)
+
+
+
+
+
+
